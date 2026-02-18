@@ -1,0 +1,2 @@
+# Praktikum-14-Mediapipe-POSE
+PRAKTIKUM KONTROL CERDAS
